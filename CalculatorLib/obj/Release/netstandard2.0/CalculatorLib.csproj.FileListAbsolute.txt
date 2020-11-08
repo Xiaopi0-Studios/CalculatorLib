@@ -1,0 +1,9 @@
+C:\Users\Erik\Documents\GitKraken\Calculator\CalculatorLib\CalculatorLib\CalculatorLib\bin\Release\netstandard2.0\CalculatorLib.deps.json
+C:\Users\Erik\Documents\GitKraken\Calculator\CalculatorLib\CalculatorLib\CalculatorLib\bin\Release\netstandard2.0\CalculatorLib.dll
+C:\Users\Erik\Documents\GitKraken\Calculator\CalculatorLib\CalculatorLib\CalculatorLib\bin\Release\netstandard2.0\CalculatorLib.pdb
+C:\Users\Erik\Documents\GitKraken\Calculator\CalculatorLib\CalculatorLib\CalculatorLib\obj\Release\netstandard2.0\CalculatorLib.csprojAssemblyReference.cache
+C:\Users\Erik\Documents\GitKraken\Calculator\CalculatorLib\CalculatorLib\CalculatorLib\obj\Release\netstandard2.0\CalculatorLib.AssemblyInfoInputs.cache
+C:\Users\Erik\Documents\GitKraken\Calculator\CalculatorLib\CalculatorLib\CalculatorLib\obj\Release\netstandard2.0\CalculatorLib.AssemblyInfo.cs
+C:\Users\Erik\Documents\GitKraken\Calculator\CalculatorLib\CalculatorLib\CalculatorLib\obj\Release\netstandard2.0\CalculatorLib.csproj.CoreCompileInputs.cache
+C:\Users\Erik\Documents\GitKraken\Calculator\CalculatorLib\CalculatorLib\CalculatorLib\obj\Release\netstandard2.0\CalculatorLib.dll
+C:\Users\Erik\Documents\GitKraken\Calculator\CalculatorLib\CalculatorLib\CalculatorLib\obj\Release\netstandard2.0\CalculatorLib.pdb
