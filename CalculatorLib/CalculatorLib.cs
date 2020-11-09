@@ -62,12 +62,14 @@ namespace Xiaopi0Studios.Libs
 
         public int basicDivider(int startingNumber, int[] numbers)
         {
-            int result;
-            int holder;
+            int result = 0;
+            int holder = 0;
             foreach(int currentNumber in numbers)
             {
                 holder = startingNumber / currentNumber;
+                result = holder;
             }
+            result = holder;
             return result;
         }
         #endregion
