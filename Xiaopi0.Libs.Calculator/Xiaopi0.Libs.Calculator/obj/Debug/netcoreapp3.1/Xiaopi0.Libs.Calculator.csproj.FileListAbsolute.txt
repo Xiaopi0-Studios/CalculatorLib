@@ -1,0 +1,9 @@
+C:\Users\Erik\Documents\GitKraken\CalculatorLib\Xiaopi0.Libs.Calculator\Xiaopi0.Libs.Calculator\bin\Debug\netcoreapp3.1\Xiaopi0.Libs.Calculator.deps.json
+C:\Users\Erik\Documents\GitKraken\CalculatorLib\Xiaopi0.Libs.Calculator\Xiaopi0.Libs.Calculator\bin\Debug\netcoreapp3.1\Xiaopi0.Libs.Calculator.dll
+C:\Users\Erik\Documents\GitKraken\CalculatorLib\Xiaopi0.Libs.Calculator\Xiaopi0.Libs.Calculator\bin\Debug\netcoreapp3.1\Xiaopi0.Libs.Calculator.pdb
+C:\Users\Erik\Documents\GitKraken\CalculatorLib\Xiaopi0.Libs.Calculator\Xiaopi0.Libs.Calculator\obj\Debug\netcoreapp3.1\Xiaopi0.Libs.Calculator.csprojAssemblyReference.cache
+C:\Users\Erik\Documents\GitKraken\CalculatorLib\Xiaopi0.Libs.Calculator\Xiaopi0.Libs.Calculator\obj\Debug\netcoreapp3.1\Xiaopi0.Libs.Calculator.AssemblyInfoInputs.cache
+C:\Users\Erik\Documents\GitKraken\CalculatorLib\Xiaopi0.Libs.Calculator\Xiaopi0.Libs.Calculator\obj\Debug\netcoreapp3.1\Xiaopi0.Libs.Calculator.AssemblyInfo.cs
+C:\Users\Erik\Documents\GitKraken\CalculatorLib\Xiaopi0.Libs.Calculator\Xiaopi0.Libs.Calculator\obj\Debug\netcoreapp3.1\Xiaopi0.Libs.Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Erik\Documents\GitKraken\CalculatorLib\Xiaopi0.Libs.Calculator\Xiaopi0.Libs.Calculator\obj\Debug\netcoreapp3.1\Xiaopi0.Libs.Calculator.dll
+C:\Users\Erik\Documents\GitKraken\CalculatorLib\Xiaopi0.Libs.Calculator\Xiaopi0.Libs.Calculator\obj\Debug\netcoreapp3.1\Xiaopi0.Libs.Calculator.pdb
